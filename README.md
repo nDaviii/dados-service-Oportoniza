@@ -19,4 +19,4 @@
 
 ### Conclusão
 
-&nbsp;&nbsp;&nbsp;&nbsp;Portanto, o projeto foi configurado para validar e tratar dados de formulário utilizando Sails.js. As funcionalidades foram implementadas e integradas, garantindo que os dados sejam validados e formatados antes de serem salvos no banco de dados. O código está disponível na pasta `Aplicação Sails`, para revisão e possíveis correções.
+&nbsp;&nbsp;&nbsp;&nbsp;Portanto, o projeto foi configurado para validar e tratar dados de formulário utilizando Sails.js. As funcionalidades foram implementadas e integradas, garantindo que os dados sejam validados e formatados antes de serem salvos no banco de dados. O código está disponível na pasta `Aplicação Sails`, para revisão e possíveis correções. É importante ressaltar que o projeto foi desenvolvido a partir das instruções do encontro, mas também das orientações do monitor, repassadas por colegas do grupo, bem como com o uso moderado de softwares de inteligência artificial para eventuais dúvidas.
